@@ -733,7 +733,7 @@ header {
 @media only screen and (max-width: 1000px) {
     .full-view {
 
-        grid-template-columns: minmax(80px) minmax(320px, 500px) 0;
+        grid-template-columns: 80px minmax(120px, 400px) 0px;
         /* margin: 0 auto; */
 
     }
