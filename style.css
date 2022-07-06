@@ -783,9 +783,12 @@ header {
 
     .full-view {
 
-        grid-template-columns: 0px minmax(120px, 380px) 0px;
+        grid-template-columns: 0px minmax(120px, 400px) 0px;
         /* margin: 0 auto; */
 
+    }
+    .right-content{
+        display: none;
     }
     .left-content{
         display: none;
