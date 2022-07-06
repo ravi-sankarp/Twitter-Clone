@@ -466,7 +466,7 @@ header {
     position: fixed;
     background: #EFF3F4;
     padding: 5px;
-    z-index: 20;
+    z-index: 200;
 }
 
 .search-box-container img {
